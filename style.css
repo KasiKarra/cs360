@@ -1,0 +1,48 @@
+
+	#header 
+	{
+		font-style: oblique;
+		color: purple; 
+		background-color: #F5DA81;
+		height:50px;
+	}
+	.h2
+	{	 
+		font-size:36;
+		font-style: oblique;
+		color: purple;
+	}
+	.h3
+	{
+		font-style: oblique; 
+		font-size:18;
+		color: purple;
+	}
+
+	.pre 
+	{ 	
+		color: #7401DF; 	
+	}
+
+	.ol1
+	{
+		position:relative;
+		left:125px;
+		text-align::left;
+	}
+
+	#nav
+	{
+		background-color: #CEF6F5;
+		float:left;
+		height:400px;
+		width:120px;
+		text-align: center;
+	}
+	#section
+	{
+		position: relative;
+		left:120px;
+		text-align:left;
+		height: 400px;
+	}
